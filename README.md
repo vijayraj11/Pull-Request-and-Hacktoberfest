@@ -14,7 +14,7 @@
  Os ekam erus uoy evah a yrotcerid tes edisa erehw uoy nac od siht. 
  Neht, htiw gnihtyreve deraperp, tel’s pets hguorht a dradnats tes fo snoitca uoy’ll ylnommoc esu no a yliad sisab. 
  Yllacificeps, ew’er gniog ot esu tini, enolc, dda, timmoc, ffid, dna gol. Ereht era a rebmun fo rehto, 
- erom decnavda snoitca uoy nac mrofrep.
+ more advanced actions you can perform.
  Tub ni eht gninnigeb, uoy now’t deen meht. 
  Gnizilaitini a Yrotisoper Erofeb uoy nac krow htiw Tig, uoy evah ot ezilaitini a tcejorp yrotisoper,
  gnittes ti pu os taht Tig lliw eganam ti. Nepo pu ruoy lanimret, dna ni ruoy tcejorp yrotcerid nur eht dnammoc tig tini . 
