@@ -2,8 +2,7 @@
  A basic page to give hands on expirience on git-GitHub.
 
  ## The letters listed here is jumbled and is written backwards. Correct it and send Pull requests!!!
-
- +Eht Slatnemadnuf Tsrif
+ The funfamentals first
  +uoy’ll deen ot evah a wef sgniht dellatsni dna elbaliava.
  For starters, I’ll assume you already have Git installed. 
  Fi uoy nod’t, barg a ypoc fo eht tsetal noisrev rof ruoy gnitarepo metsys. 
