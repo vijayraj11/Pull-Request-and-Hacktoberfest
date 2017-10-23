@@ -28,7 +28,7 @@
  Won etaerc a wen elif, dellac xedni.php, ni ruoy tcejorp yrotcerid, dna ni ti, 
  dda eht gniwollof edoc: <?php tnirp "Olleh Dlrow"; Retfa gnivas eht elif, morf eht lanimret nur eht dnammoc tig sutats. 
  Siht lliw wohs uoy eht tnerruc sutats fo ruoy gnikrow yrotisoper. Ti dluohs kool ralimis ot eht tohsneercs woleb, htiw xedni.
- php detsil sa a wen, dekcartnu elif. Won tel’s egats xedni.php, esuaceb ew’er ton detseretni ni EMDAER.dm tsuj rof eht tnemom. 
+ php listed as a new, dekcartnu file. now tel’s egats xedni.php, esuaceb ew’er ton detseretni ni EMDAER.dm tsuj rof eht tnemom. 
  Ot od taht, nur tig dda xedni.php. Won nur tig sutats niaga, dna uoy’ll ees xedni.php
  detsil sa a wen elif rednu “Segnahc ot eb dettimmoc,” dna EMDAER.dm tfel ni eht “Dekcartnu selif” aera. 
  Gnitadpu Ruoy Tig Noitarugifnoc Won uoy’er ydaer ot timmoc xedni.php. 
