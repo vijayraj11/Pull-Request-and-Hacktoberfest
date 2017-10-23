@@ -9,7 +9,7 @@
  Fi uoy nod’t, barg a ypoc fo eht tsetal noisrev rof ruoy gnitarepo metsys. 
  Fi uoy’er no Xunil, uoy nac llatsni ti aiv ruoy egakcap reganam daetsni.
  Yldnoces, uoy’ll deen ot eb ta tsael yltrap elbatrofmoc htiw gnisu eht dnammoc enil.
- Won ton enoyreve si, os fi uoy’er ton, nod’t yrrow. Siht lliw lla eb etiuq drawrofthgiarts.
+ Now not everyone is, so if uoy’er not, nod’t worry. this will all be etiuq straightforward.
  Gnihton oot xelpmoc. Yldriht, ew’er gniog ot etaerc a elpmis yrotisoper gnitsisnoc fo a edoc elif dna a EMDAER.
  Os ekam erus uoy evah a yrotcerid tes edisa erehw uoy nac od siht. 
  Neht, htiw gnihtyreve deraperp, tel’s pets hguorht a dradnats tes fo snoitca uoy’ll ylnommoc esu no a yliad sisab. 
