@@ -5,7 +5,7 @@
 
  +Eht Slatnemadnuf Tsrif
  +uoy’ll deen ot evah a wef sgniht dellatsni dna elbaliava.
- Rof sretrats, I’ll emussa uoy ydaerla evah Tig dellatsni. 
+ For starters, I’ll assume you already have Git installed. 
  Fi uoy nod’t, barg a ypoc fo eht tsetal noisrev rof ruoy gnitarepo metsys. 
  Fi uoy’er no Xunil, uoy nac llatsni ti aiv ruoy egakcap reganam daetsni.
  Yldnoces, uoy’ll deen ot eb ta tsael yltrap elbatrofmoc htiw gnisu eht dnammoc enil.
